@@ -1,0 +1,95 @@
+.header{
+	min-height: 10px;
+	background-color: red;
+
+}
+.wrapping{
+	overflow: hidden;
+	border: 10px solid black;
+}
+.box1{
+
+	background-color: green;
+	float: left;
+	width: 50%;
+}
+.box2{
+	
+	background-color: blue;
+	float: right;
+	width: 50%;
+}
+.common{
+	min-height: 100px;
+	
+
+
+}
+.footer{
+	min-height: 100px;
+	background-color: orange;
+}
+.container{
+	overflow: hidden;
+	border: 20px solid aqua ;
+}
+.blog{
+      width: 50%;
+      background-color: teal;
+      float: left; }
+ .contact{
+ 	width: 25%;
+ 	background-color: maroon;
+ 	float: left;
+ }
+ .finish{
+ 	width: 25%;
+ 	background-color: purple;
+ 	float: left;
+ }
+ .packet{
+ 	overflow: hidden;
+ 	border: 20px solid indigo;
+
+ }
+ .common1{
+ 	width: 25%;
+ 	float: left;
+ }
+ .box3{
+ 	background-color:  gray;
+
+ }
+ .box4{
+ 	background-color: coral;
+
+ }
+ .box5{
+background-color: brown;
+ }
+ .box6{
+ 	background-color: yellow;
+ }
+ .register{
+ 	width: 45%;
+ 	margin: auto;
+ 	
+ 	border: 5px solid #ddd;
+ }
+ .first_name,.sur_name{
+ 	display: inline-block;
+
+ 	font-size: 14px;
+ 	padding: 5px;
+ }
+
+ label{
+ 	font-size: 25px;
+ }
+ .email,.password, .dob{
+ 	font-size: 15px;
+ 	padding: 5px;
+ 	display: block;
+ }
+
+ }
